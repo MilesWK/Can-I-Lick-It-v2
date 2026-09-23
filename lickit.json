@@ -6,18 +6,16 @@
         "l": "",
         "description": ""
     },
-
-    { "element": "1",
+    {"element": "1",
         "name": "Hydrogen",
-        "lick": "Kind of.",
-        "l": "s",
-        "description": "Hydrogen's main state at any resonable temperature is gaseous. It only becomes a liquid at -240.21°C. If you lick it at that temperature, not only will you be the first person to lick Hydrogen, you will also freeze your tounge off. However, everything else would be A-OK.  ",
+        "lick": "Yes, ish",
+        "l": "y",
+        "description": "Hydrogen's main state at any resonable temperature is gaseous. It only becomes a liquid at -240.21°C. If you lick it at that temperature, not only will you be the first person to lick Hydrogen, you will also freeze your tounge off. However, everything else would be A-OK.  "
     },
-
     {"element": "2",
         "name": "Helium",
-        "lick": "Sorta.",
-        "l": "s",
+        "lick": "Yes, kinda.",
+        "l": "y",
         "description": "Helium is a gas. You can't lick it at any temperature above -270°C, where it then becomes a solid. But at that point you freeze your tounge off. Congrats. Your voice would be a little squeaky though."
     },
     {"element": "3",
@@ -57,10 +55,63 @@
         "description": "Oxygen is super, duper common. Without it we would die. However, it is a gas, so good luck \"licking\" it."
     },
     {"element": "9",
-        "name": "",
-        "lick": "",
-        "l": "",
-        "description": ""
+        "name": "Fluorine",
+        "lick": "Nada.",
+        "l": "n",
+        "description": "Fluorine is highly reactive and will burn you badly. Its also a gas, so you would probably inhale it when trying to lick it, which is really bad."
     },
-    
+    {"element": "10",
+        "name": "Neon",
+        "lick": "Sure.",
+        "l": "y",
+        "description": "It's a gas, so you would have to figure out how to lick a gas, but once you figure that out, you will learn it is harmless."
+    },
+    {"element": "11",
+        "name": "Sodium",
+        "lick": "NO.",
+        "l": "d",
+        "description": "When sodium touches water, it can fizz, burst into flames, and explode. Not good. Just look up \"Sodium + Water\" on YouTube. Now imagine that happening on your TOUNGE..."
+    },
+    {"element": "12",
+        "name": "Magnesium",
+        "lick": "Yeah. Go ahead.",
+        "l": "y",
+        "description": "Magnesium is perfectly fine to lick. Some people actually take magnesium pills."
+    },
+    {"element": "13",
+        "name": "Aluminium",
+        "lick": "Ever drink soda? (Yes)",
+        "l": "y",
+        "description": "Aluminium is super common. From foil to soda cans. If you have ever had a Pepsi or similar, you probably already have licked it!"
+    },
+    {"element": "14",
+        "name": "Silicon",
+        "lick": "Yes.",
+        "l": "y",
+        "description": "Small amounts of it is fine, which is what you would get if you were to lick it."
+    },
+    {"element": "15",
+        "name": "Phosphorus",
+        "lick": "No. PLEASE DON'T.",
+        "l": "d",
+        "description": "Phosphorus isn't your friend. When exposed to air, it catches fire. It also is poisonus, so if you were to get it into your mouth without it blowing up, you would still die."
+    },
+    {"element": "16",
+        "name": "Sulfur",
+        "lick": "Yep.",
+        "l": "y",
+        "description": "It isn't bad for you, it isn't good for you either. So yes, you can lick it and not be harmed, but WHY?"
+    },
+    {"element": "17",
+        "name": "Chlorine",
+        "lick": "Probably wouldn't feel great.",
+        "l": "s",
+        "description": "If you have ever been in a swimming pool, you have probably taken in some chlorine, however, raw chlorine would probably hurt your tounge."
+    },
+    {"element": "18",
+        "name": "Argon",
+        "lick": "Yeah.",
+        "l": "y",
+        "description": "Argon is a gas, so you can't get a solid state of it easily, but if somehow you could lick a gas, it would be fine."
+    }
 ]
