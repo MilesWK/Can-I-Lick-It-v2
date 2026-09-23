@@ -1,0 +1,66 @@
+
+[
+    {"element": "",
+        "name": "",
+        "lick": "",
+        "l": "",
+        "description": ""
+    },
+
+    { "element": "1",
+        "name": "Hydrogen",
+        "lick": "Kind of.",
+        "l": "s",
+        "description": "Hydrogen's main state at any resonable temperature is gaseous. It only becomes a liquid at -240.21°C. If you lick it at that temperature, not only will you be the first person to lick Hydrogen, you will also freeze your tounge off. However, everything else would be A-OK.  ",
+    },
+
+    {"element": "2",
+        "name": "Helium",
+        "lick": "Sorta.",
+        "l": "s",
+        "description": "Helium is a gas. You can't lick it at any temperature above -270°C, where it then becomes a solid. But at that point you freeze your tounge off. Congrats. Your voice would be a little squeaky though."
+    },
+    {"element": "3",
+        "name": "Lithium",
+        "lick": "Nope.",
+        "l": "n",
+        "description": "Lithium is that acid stuff in coin batteries. Licking it would cause a burn on your tounge, wouldn't taste good, and is bad for your insides if it makes it all the way down."
+    },
+    {"element": "4",
+        "name": "Beryllium",
+        "lick": "Please don't.",
+        "l": "n",
+        "description": "Beryllium isn't your friend. Inhaling it (which you probably would do if you were to lick it) can lead to many bad things, even Lung Cancer. It also would burn your tounge. Other than that you are good to go!"
+    },
+    {"element": "5",
+        "name": "Boron",
+        "lick": "Yeah, just don't lick too much.",
+        "l": "y",
+        "description": "Boron is one of those things that one lick won't hurt, but a lot of licks can cause kidney failure and similar stuff. However, one lick won't really hurt you."
+    },
+    {"element": "6",
+        "name": "Carbon",
+        "lick": "Yep.",
+        "l": "y",
+        "description": "Carbon is 100% safe to lick. (Ever lick the tip of your pencil?)"
+    },
+    {"element": "7",
+        "name": "Nitrogen",
+        "lick": "Yes, ish.",
+        "l": "s",
+        "description": "Nitrogen is a gas, so you can't technically lick it unless it is really, really cold (at which point you would freeze your tounge off) but other than the missing tounge you would be fine."
+    },
+    {"element": "8",
+        "name": "Oxygen",
+        "lick": "Definatly",
+        "l": "y",
+        "description": "Oxygen is super, duper common. Without it we would die. However, it is a gas, so good luck \"licking\" it."
+    },
+    {"element": "9",
+        "name": "",
+        "lick": "",
+        "l": "",
+        "description": ""
+    },
+    
+]
