@@ -113,5 +113,23 @@
         "lick": "Yeah.",
         "l": "y",
         "description": "Argon is a gas, so you can't get a solid state of it easily, but if somehow you could lick a gas, it would be fine."
-    }
+    },
+    {"element": "19",
+        "name": "Potassium",
+        "lick": "Nope.",
+        "l": "d",
+        "description": "Potassium reacts very viloently when it comes into contact with water. Since your mouth has water in it, potassium would react viloently with your MOUTH. That wouldn't be good."
+    },
+    {"element": "20",
+        "name": "Calcium",
+        "lick": "Nahhh",
+        "l": "n",
+        "description": "Calcium + the Air = bad stuff. Calcium + your tounge = really bad stuff."
+    },
+    {"element": "21",
+        "name": "Scandium",
+        "lick": "I guess so.",
+        "l": "y",
+        "description": "Scandium is one of those rare things. You could lick it and come away from it fine, but good luck finding it."
+    },
 ]
