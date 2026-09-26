@@ -132,4 +132,40 @@
         "l": "y",
         "description": "Scandium is one of those rare things. You could lick it and come away from it fine, but good luck finding it."
     },
+    {"element": "22",
+        "name": "Titanium",
+        "lick": "Be my guest!",
+        "l": "y",
+        "description": "Titanium is a metal, like steel! It wouldn't hurt a fly (probably)."
+    },
+    {"element": "23",
+        "name": "Vanadium",
+        "lick": "One lick won't hurt.",
+        "l": "y",
+        "description": "Vanadium is in various foods, but in REALLY small amounts. So one lick will be fine."
+    },
+    {"element": "24",
+        "name": "Chromium",
+        "lick": "Yes, depending on the form",
+        "l": "y",
+        "description": "Chromium comes in various forms. For example, Chromium-6 is bad for you, but Chromium-3 is fine in small amounts. So just make sure you know what you are licking."
+    },
+    {"element": "25",
+        "name": "Manganese",
+        "lick": "Better safe than sorry...",
+        "l": "d",
+        "description": "In small amounts, it is fine (like in really small amounts). But too much can lead to Parkinson's Disease-Like systems. (BADDDD)."
+    },
+    {"element": "26",
+        "name": "Iron",
+        "lick": "All Day, Every Day",
+        "l": "y",
+        "description": "Iron is fine to lick. Need I say more?"
+    },
+    {"element": "27",
+        "name": "Cobalt",
+        "lick": "Should be okay.",
+        "l": "y",
+        "description": "Cobalt is fine in small amounts, but it you have too much, it can lead to bad stuff."
+    }
 ]
