@@ -167,5 +167,30 @@
         "lick": "Should be okay.",
         "l": "y",
         "description": "Cobalt is fine in small amounts, but it you have too much, it can lead to bad stuff."
+    },
+    {"element": "28",
+        "name": "Nickel",
+        "lick": "Go ahead.",
+        "l": "y",
+        "description": "Nickel is fine to lick a few times."
+    },
+    {"element": "29", 
+        "_COMMENT": "Make a small note in UI saying they can't sue (as a joke of course)",
+        "name": "Copper",
+        "lick": "DO IT.",
+        "l": "y",
+        "description": "Copper is totally okay to lick. I dare you to do it. "
+    },
+    {"element": "30",
+        "name": "Zinc",
+        "lick": "You would be fine!",
+        "l": "y",
+        "description": "People often take some zinc supplements, and they are fine (i think) so licking it can't hurt."
+    },
+    {"element": "31",
+        "name": "Gallium",
+        "lick": "Should be fine.",
+        "l": "y",
+        "description": "Gallium is just another boring metal. Fun fact: it has a really low melting point! Who knew!"
     }
 ]
