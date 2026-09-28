@@ -192,5 +192,65 @@
         "lick": "Should be fine.",
         "l": "y",
         "description": "Gallium is just another boring metal. Fun fact: it has a really low melting point! Who knew!"
+    },
+    {"element": "32",
+        "name": "Germanium",
+        "lick": "You can lick it.",
+        "l": "y",
+        "description": "Germainium is totally fine to lick. It is like silicon."
+    },
+    {"element": "33",
+        "name": "Arsenic",
+        "lick": "No. Stop. Don't.",
+        "l": "d",
+        "description": "Arsenic is poison. Please don't attempt to lick it. It won't end very well."
+    },
+    {"element": "34",
+        "name": "Selenium",
+        "lick": "Yes. Just be careful.",
+        "l": "y",
+        "description": "One lick won't hurt. However, if you have 900-1000 micrograms per day, you can lose your hair and nails..."
+    },
+    {"element": "35",
+        "name": "Bromine",
+        "lick": "Not the brightest idea.",
+        "l": "n",
+        "description": "Bromine, a liquid at room temperature, can cause irritation to the skin, vomiting, and more. If exposed, The CDC recommends you take off your clothes. Their words, not mine."
+    },
+    {"element": "36",
+        "name": "Krypton",
+        "lick": "Yes if you can find it!",
+        "l": "y",
+        "description": "(not to be confused with Kryptonite) Krypton is a super rare gas found in the atmosphere, lightning, and other small things. It is non-toxic and won't hurt you if you somehow lick it."
+    },
+    {"element": "37",
+        "name": "Rubidium",
+        "lick": "The doctor says no.",
+        "l": "n",
+        "description": "Rubidium reacts harshly with water and air, so by the time it got to your tounge it would be on fire, and from there your day would go downhill."
+    },
+    {"element": "38",
+        "name": "Strontium",
+        "lick": "Yeah it will be fine.",
+        "l": "y",
+        "description": "Strontium can be found in a variety of things, including some toothpaste! So there is a chance you have already licked it!"
+    },
+    {"element": "39",
+        "name": "Yttrium",
+        "lick": "Sure.",
+        "l": "y",
+        "description": "Yttrium is rare and is found in LEDs and some cancer medicine! A lick should be okay."
+    },
+    {"element": "40",
+        "name": "Zirconium",
+        "lick": "Won't hurt (probably).",
+        "l": "y",
+        "description": "Zirconium is a rare metal that is fine to lick. Nothing else to say."
+    },
+    {"element": "41",
+        "name": "Niobium",
+        "lick": "Yeah.",
+        "l": "y",
+        "description": "Niobium is really strong and can take a lot of heat. You can lick it. It is actually used in jewelry."
     }
 ]
