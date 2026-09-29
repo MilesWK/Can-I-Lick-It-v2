@@ -252,5 +252,59 @@
         "lick": "Yeah.",
         "l": "y",
         "description": "Niobium is really strong and can take a lot of heat. You can lick it. It is actually used in jewelry."
+    },
+    {"element": "42",
+        "name": "Molybdenum",
+        "lick": "Totally.",
+        "l": "y",
+        "description": "Molybdenum is fine to lick. Need I say more?"
+    },
+    {"element": "43",
+        "name": "Technetium",
+        "lick": "yeah... NO!!!",
+        "l": "r",
+        "description": "Technetium is radioactive. It really isn't smart to lick anything radioactive. (see: the radium girls)"
+    },
+    {"element": "44",
+        "name": "Ruthenium",
+        "lick": "Uh-Huh",
+        "l": "y",
+        "description": "This is one of the rarest stable metals in the Earth's Crust, so you would have trouble finding some to lick, but once you found some, you would find that it is fine to lick, and that it costs $1,675 USD per ounce."
+    },
+    {"element": "45",
+        "name": "Rhodium",
+        "lick": "Mhm. (yes)",
+        "l": "y",
+        "description": "Rhodium is very reflective and used in a variety of things, among which are catalytic converters! It is fine to lick."
+    },
+    {"element": "46",
+        "name": "Palladium",
+        "lick": "Ya.",
+        "l": "y",
+        "description": "Palladium is used in things like crowns and parts of dentures. If you have that, you might have be licking palladium right now..."
+    },
+    {"element": "47",
+        "name": "Silver",
+        "lick": "Without a doubt yes.",
+        "l": "y",
+        "description": "Silver is used in a lot. There is a good chance something in your home is made out of it. You should lick it."
+    },
+    {"element": "48",
+        "name": "Cadmium",
+        "lick": "I wouldn't lick this if I were you...",
+        "l": "n",
+        "description": "Cadmium is very toxic. It can lead to bad things. While one lick might not kill you, it won't feel great."
+    },
+    {"element": "49",
+        "name": "Indium",
+        "lick": "It is okay to lick, but just don't swollow.",
+        "l": "y",
+        "description": "Indium is okay to lick, but if you swollow, it could damage some pretty important stuff that you definatly don't want to happen to you."
+    },
+    {"element": "50",
+        "name": "Tin",
+        "lick": "Yes, yes, and yes.",
+        "l": "y",
+        "description": "Ever hear of a tin can? Tin is totally fine to lick. In fact, you should lick it, if you have some tin."
     }
 ]
