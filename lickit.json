@@ -306,5 +306,65 @@
         "lick": "Yes, yes, and yes.",
         "l": "y",
         "description": "Ever hear of a tin can? Tin is totally fine to lick. In fact, you should lick it, if you have some tin."
+    },
+    {"element": "51",
+        "name": "Antimony",
+        "lick": "Best not to.",
+        "l": "n",
+        "description": "Antimony, formerly Stibium, is used in various things including childrens clothing. However, raw Antimony is toxic and can cause respitory damage."
+    },
+    {"element": "52",
+        "name": "Tellurium",
+        "lick": "Only if you like garlic.",
+        "l": "n",
+        "description": "Tellurium is weird. If you lick it, it can lead to your breath, sweat, and urine smelling like garlic. (weird.)"
+    },
+    {"element": "53",
+        "name": "Iodine",
+        "lick": "DON'T.",
+        "l": "d",
+        "description": "Iodine is very toxic. 2-3 grams of raw iodine is enough to kill you. While one lick won't get you that much. You definatly won't be feeling good."
+    },
+    {"element": "54",
+        "name": "Xenon",
+        "lick": "Should be fine.",
+        "l": "y",
+        "description": "Xenon is a gas, so licking it is impossible unless it is super cold, but if somehow you licked it, you would be fine."
+    },
+    {"element": "55",
+        "name": "Caesium",
+        "lick": "don't lick it.",
+        "l": "n",
+        "description": "Caesium is super soft and melts like wax. However... when it comes into contact with water, it explodes. Highly advised not to lick it."
+    },
+    {"element": "56",
+        "name": "Barium",
+        "lick": "Wouldn't go so well.",
+        "l": "n",
+        "description": "Barium poisoning is a real thing. Licking it could cause nerve, heart, or kidney damage. No bueno."
+    },
+    {"element": "57",
+        "name": "Lanthanum",
+        "lick": "One lick should be ok.",
+        "l": "y",
+        "description": "Lanthanum is rare, and is kind of boring. Lick it."
+    },
+    {"element": "58",
+        "name": "Cerium",
+        "lick": "Highly reactive. Probably shouldn't touch.",
+        "l": "n",
+        "description": "Cerium can ignite when scratched. So I guess in theory you could lick it, just make sure it doesn't come into contact with your teeth."
+    },
+    {"element": "59",
+        "name": "Praseodymium",
+        "lick": "One lick will be fine.",
+        "l": "y",
+        "description": "Praseodymium reacts quickly with water, but if you lick it really quickly you should be okay."
+    },
+    {"element": "60",
+        "name": "Neodymium",
+        "lick": "Sí. (yes)",
+        "l": "y",
+        "description": "Neodymium is fine to lick. It is used in magents and some other stuff."
     }
 ]
