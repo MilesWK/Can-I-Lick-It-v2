@@ -45,7 +45,7 @@
     {"element": "7",
         "name": "Nitrogen",
         "lick": "Yes, ish.",
-        "l": "s",
+        "l": "n",
         "description": "Nitrogen is a gas, so you can't technically lick it unless it is really, really cold (at which point you would freeze your tounge off) but other than the missing tounge you would be fine."
     },
     {"element": "8",
@@ -105,7 +105,7 @@
     {"element": "17",
         "name": "Chlorine",
         "lick": "Probably wouldn't feel great.",
-        "l": "s",
+        "l": "n",
         "description": "If you have ever been in a swimming pool, you have probably taken in some chlorine, however, raw chlorine would probably hurt your tounge."
     },
     {"element": "18",
@@ -366,5 +366,41 @@
         "lick": "Sí. (yes)",
         "l": "y",
         "description": "Neodymium is fine to lick. It is used in magents and some other stuff."
+    },
+    {"element": "61",
+        "name": "Promethium",
+        "lick": "No! It is radioactive!",
+        "l": "r",
+        "description": "This is very, very rare, with less than 600 grams in the Earth's crust. It is also radioactive, so licking it wouldn't be good."
+    },
+    {"element": "62",
+        "name": "Samarium",
+        "lick": "Yeah sure.",
+        "l": "y",
+        "description": "This is a pretty typical metal. When combined with other elements, however, it can be used to do interesting things such as radioactive dating. Who knew!"
+    },
+    {"element": "63",
+        "name": "Europium",
+        "lick": "It should be fine.",
+        "l": "y",
+        "description": "Europium is quite soft and tarnishes quickly in air. One lick should be fine, but looking at the picture, it doesn't look like it would taste good."
+    },
+    {"element": "64",
+        "name": "Gadolinium",
+        "lick": "Lick it.",
+        "l": "y",
+        "description": "Another boring, standard, metal. To be totally honest I am just a little over halfway through and am thinking if this is worth it..."
+    },
+    {"element": "65",
+        "name": "Terbium",
+        "lick": "Hmm... maybe not.",
+        "l": "y",
+        "description": "The toxicity hasn't been really tested, but it is considered fine. As a fun fact Terbium is used in naval sonar systems."
+    },
+    {"element": "66",
+        "name": "Dysprosium",
+        "lick": "TODO",
+        "l": "",
+        "description": ""
     }
 ]
