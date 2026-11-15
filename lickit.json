@@ -393,14 +393,80 @@
     },
     {"element": "65",
         "name": "Terbium",
-        "lick": "Hmm... maybe not.",
+        "lick": "The scientists don't know, so it should be fine.",
         "l": "y",
         "description": "The toxicity hasn't been really tested, but it is considered fine. As a fun fact Terbium is used in naval sonar systems."
     },
     {"element": "66",
         "name": "Dysprosium",
-        "lick": "TODO",
+        "lick": "Yes.",
+        "l": "y",
+        "description": "Dysprosium is a boring metal. Licking it should be okay."
+    },
+    {"element": "67",
+        "name": "Holmium",
+        "lick": "Kinda reactive. Shouldn't lick.",
+        "l": "n",
+        "description": "Holmium reacts pretty badly with water, which is on your tounge, so you might not want to lick it."
+    },
+    {"element": "68",
+        "name": "Erbium",
+        "lick": "Yeah... you can lick it.",
+        "l": "y",
+        "description": "Yet another boring metal from the Lanthanides group. Yippee."
+    },
+    {"element": "69",
+        "name": "Thulium",
+        "lick": "Tis fine to lick-ith.",
+        "l": "y",
+        "description": "Thulium is pretty boring. However, it is a metal that can be cut with a knife, which is pretty cool I guess!"
+    },
+    {"element": "70",
+        "name": "Ytterbium",
+        "lick": "I wouldn't.",
+        "l": "n",
+        "description": "Ytterbium self-ignites in air when in a powder form, and is also stored in airtight containers when not in use. I wouldn't lick this."
+    },
+    {"element": "71",
+        "name": "Lutetium",
+        "lick": "Boring = Lickable",
+        "l": "y",
+        "description": "Lutetium is a boring metal. Totally lickable."
+    },
+    {"element": "72",
+        "name": "Hafnium",
+        "lick": "Soo... you gotta be careful.",
+        "l": "n",
+        "description": "Hafnium is what is known as a \"pyrophoric\" element which means that fine particles combust when it is exposed to air. Now, if you lick it juuuusst right you should be fine, but just make sure you don't make any particles."
+    },
+    {"element": "73",
+        "name": "Tantalum",
+        "lick": "No. Not at all.",
+        "l": "d",
+        "description": "Tantalum bonds very quickly with human tissue. Your tounge is human tissue. In addition, OSHA actually posted a legal limit of how much you can inhale of this, and it is a small number, so be careful."
+    },
+    {"element": "74",
+        "name": "Tungsten",
+        "lick": "It is totally fine.",
+        "l": "y",
+        "description": "Tungsten is a very strong and pretty common metal. You can even get weddings bands made out of it!"
+    },
+    {"element": "75",
+        "name": "Osmium",
+        "lick": "Go ahead. It is fine.",
+        "l": "y",
+        "description": "Osmium is similar to platinum and is totally harmless in it's pure form. Also, fun fact, this is the densest naturally occuring metal!"
+    },
+    {"element": "77",
+        "name": "Iridium",
+        "lick": "It be fine.",
+        "l": "y",
+        "description": "It is totally fine to lick. That is really all that needs to be said."
+    },
+    {"element": "78",
+        "name": "",
+        "lick": "",
         "l": "",
         "description": ""
-    }
+    },
 ]
