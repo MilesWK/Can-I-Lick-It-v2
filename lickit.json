@@ -464,9 +464,81 @@
         "description": "It is totally fine to lick. That is really all that needs to be said."
     },
     {"element": "78",
-        "name": "",
-        "lick": "",
-        "l": "",
-        "description": ""
+        "name": "Platinum",
+        "lick": "Absolutly you can.",
+        "l": "y",
+        "description": "Platinum is a very common metal known for its strength. You can find it in all kinds of stuff!"
     },
+    {"element": "79",
+        "name": "Gold",
+        "lick": "Duh... yes.",
+        "l": "y",
+        "description": "Gold is rare yet common metal. It is definatly safe to lick, as you see everyone bite their gold metal in the Olympics."
+    },
+    {"element": "80",
+        "name": "Mercury",
+        "lick": "No. Just no.",
+        "l": "d",
+        "description": "Mercury is the only metal ever to be a liquid at room temperature. While eating it SHOULD be fine, if even small amounts of it get caught, it can be really bad. Inhaling it can be even worse. Don't lick."
+    },
+    {"element": "81",
+        "name": "Thallium",
+        "lick": "Licking this would make your day very bad.",
+        "l": "d",
+        "description": "Thallium is very toxic and fatal if inhaled. People have actually died from exposure to it. Licking it is definatly not advized."
+    },
+    {"element": "82",
+        "name": "Lead",
+        "lick": "Please do not, under any circumstance, lick this element.",
+        "l": "d",
+        "description": "Lead is really bad for you. It is a neurotoxin, meaning that it affects the brain. A 2009 study said that even small amounts may cause \"adverse mental health outcomes.\" Licking it would be very bad."
+    },
+    {"element": "83",
+        "name": "Bismuth",
+        "lick": "Yeah it should be fine.",
+        "l": "y",
+        "description": "Bismuth is an interesting metal. It is very slightly radioactive (one lick should be fine). It is one of the least thermally conductive elements known."
+    },
+    {"element": "84",
+        "name": "Polonium",
+        "lick": "Nah. It is radioactive.",
+        "l": "r",
+        "description": "Polonium is a highly radioactive element. It is often found with uranium and is very rare. Licking it wouldn't be good."
+    },
+    {"element": "85",
+        "name": "Astatine",
+        "lick": "NO.",
+        "l": "r",
+        "description": "Astatine is super radioactive, lasting only about 8 hours. Licking it would be REALLY bad."
+    },
+    {"element": "86",
+        "name": "Radon",
+        "lick": "This is... scary.",
+        "l": "r",
+        "description": "According to Wikipedia, Radon is a colorless, oderless, and radioactive gas. Because it is gas, it would be pretty hard to lick, but if somehow you did, it would end pretty badly."
+    },
+    {"element": "87",
+        "name": "Francium",
+        "lick": "Don't lick this.",
+        "l": "r",
+        "description": "Francium is extremly unstable. It is so unstable that it is never found in bulk quantities, because it would vaporize immediatly. Don't lick."
+    },
+    {"element": "88",
+        "name": "Radium",
+        "lick": "I can say with 100% confidence: no.",
+        "l": "r",
+        "description": "Ever hear of the radium girls? They were people who painted watches with radium to make them glow in the dark. To get the pointy tips on the brushes, they would lick them, then dip in radium. It didn't end very well for them. Licking this isn't very good."
+    },
+    {"element": "89",
+        "name": "Actinium",
+        "lick": "Unlickable.",
+        "l": "r",
+        "description": "Actinium is a rare radioactive metal. It reacts pretty badly with oxygen and moisture. Licking it would not be the best."
+    },
+    {"element": "90",
+        "name": "Thorium",
+        "lick": "You known... one lick should be fine.",
+        "l": "r",
+        "description": "Thorium is weakly radioactive, according to the Wikipedia page. I would say that one lick should be fine. What is the worst that could happen...?"
+    }
 ]
