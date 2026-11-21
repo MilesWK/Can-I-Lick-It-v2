@@ -539,6 +539,66 @@
         "name": "Thorium",
         "lick": "You known... one lick should be fine.",
         "l": "r",
-        "description": "Thorium is weakly radioactive, according to the Wikipedia page. I would say that one lick should be fine. What is the worst that could happen...?"
+        "description": "Thorium is weakly radioactive. I would say that one lick should be fine. What is the worst that could happen...?"
+    },
+    {"element": "91",
+        "name": "Protactinium",
+        "lick": "Radioactive AND reacts with oxygen? Yeah, don't lick it.",
+        "l": "r",
+        "description": "Protactinium is radioactive, but above that it reacts with oxygen and water, you know what is in the air? Oxygen. You know what is on your tounge? Water. Don't lick."
+    },
+    {"element": "92",
+        "name": "Uranium",
+        "lick": "NO. NO NO NO.",
+        "l": "r",
+        "description": "Uranium is used in NUCLEAR WEAPONS. It is dangerous. It is bad. It also can't be licked."
+    },
+    {"element": "93",
+        "name": "Neptunium",
+        "lick": "Please don't.",
+        "l": "r",
+        "description": "Neptunium isn't your friendly neighborhood element. It is very dangerous and of course, it is radioactive. Don't lick it."
+    },
+    {"element": "94",
+        "name": "Plutonium",
+        "lick": "They put this in bombs",
+        "l": "r",
+        "description": "Plutonium is poisionus, radioactive, and can build up in bones. It is also used in nuclear bombs so, maybe it is best NOT to lick it today."
+    },
+    {"element": "95",
+        "name": "Americium",
+        "lick": "It's radioactive...",
+        "l": "r",
+        "description": "Americium is radioactive, so maybe it is best not to lick it."
+    },
+    {"element": "96",
+        "name": "Curium",
+        "lick": "It's like a sibiling of Uranium",
+        "l": "r",
+        "description": "Curium is made in nuclear reactors. It is very rare, but quite radioactive. I wouldn't lick it."
+    },
+    {"element": "97",
+        "name": "Berkelium",
+        "lick": "Don't lick it. Also, it is super rare.",
+        "l": "r",
+        "description": "Berkelium, named after Berkley, California, is only really made in nuclear reactors. It took researchers 250 days to make a 22-milligram batch in 2009. It is radioactive, so I wouldn't lick it. "
+    },
+    {"element": "98",
+        "name": "Californium",
+        "lick": "just don't. No.",
+        "l": "r",
+        "description": "I wonder what this is named after! Californium is super rare, doens't form naturally, and is radioactive. Don't LICK it."
+    },
+    {"element": "99",
+        "name": "Einsteinium",
+        "lick": "WHOA. This is super radioavice.",
+        "l": "r",
+        "description": "Einsteinium is very, very radioactive. If you pull up the wikipedia page, the main picture has a vile glowing because of how radioactive it is. Licking it would be bad, but maybe it would make your tounge glow!"
+    },
+    {"element": "100",
+        "name": "Fermium",
+        "lick": "No one knows...",
+        "l": "r",
+        "description": "Fermium has never been made in a pure metal. It was discovered in the fallout of the Mike Ivy nuclear test. So because no one has ever made it in the pure form, so no one knows if you can lick it. However, considering it is radioactive, I would ASSUME it isn't okay to lick."
     }
 ]
